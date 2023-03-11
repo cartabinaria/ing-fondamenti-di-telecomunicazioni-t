@@ -1,18 +1,15 @@
-# \<Insegnamento\>
+# Fondamenti di Telecomunicazioni - T
 
-Una raccolta di risorse per l'insegnamento di \<Insegnamento\> del Corso di
-Laurea in Informatica.
+Una raccolta di risorse per l'insegnamento di Fondamenti di Telecomunicazioni - T del Corso di Laurea in Ingegneria Informatica dell'Università di Bologna.
 
 ## Presentazione
 
-[Questo sito](https://csunibo.github.io/<insegnamento>) elenca staticamente
-i contenuti della raccolta. Qui, documenti e presentazioni con estensione
-`.md`, `.tex`, `.doc`, `.docx`, `.ppt` o `.pptx` sono automaticamente
-convertiti in formato PDF.
+[Questo sito](https://csunibo.github.io/dynamik/ing-fondamenti-di-telecomunicazioni-t) elenca staticamente i contenuti della raccolta.
+Qui, documenti e presentazioni con estensione `.md`, `.tex`, `.doc`, `.docx`, `.ppt` o `.pptx` sono automaticamente convertiti in formato PDF.
 
 ## Contribuire
 
-Si può contribuire al progetto tramite una [_pull request_](https://docs.github.com/en/enterprise-server@3.1/pull-requests).
+Si può contribuire al progetto tramite una [_pull request_](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 La seguente tabella elenca gli identificativi validi per le cartelle a livello
 radice. Ciascun contenuto deve essere collocato nella cartella che meglio lo
 descrive e avere un nome accettato dalla relativa espressione regolare, qualora
